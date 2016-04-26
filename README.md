@@ -8,10 +8,10 @@ Getting started
 ---------------
 
 Via composer:
-`composer require ponury88\nettools-mac`
+`composer require adrian-piechota\php-nettools-mac`
 
 Then:
-`$mac = new Ponury\NetTools\Mac('01-23-45-67-89-ab');`
+`$mac = new AdrianPiechota\NetTools\Mac('01-23-45-67-89-ab');`
 
 
 License

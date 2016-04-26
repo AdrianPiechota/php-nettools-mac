@@ -1,5 +1,5 @@
 {
-    "name": "AdrianPiechota/php-nettools-mac",
+    "name": "adrian-piechota/php-nettools-mac",
     "description": "A simple class for converting MAC addresses to integers and back",
     "license": "MIT",
 	"keywords": ["MAC", "Address"],
