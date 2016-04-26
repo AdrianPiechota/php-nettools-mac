@@ -7,7 +7,7 @@ namespace AdrianPiechota\NetTools;
  * storage purposes etc.)
  *
  * @author Adrian Piechota <adrian.piechota@yahoo.com>
- * @version 0.1
+ * @version 1.0
  * @copyright Copyright (c) 2016, Adrian Piechota
  * @license MIT License (see LICENSE file)
  */

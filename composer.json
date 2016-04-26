@@ -9,7 +9,6 @@
             "email": "adrian.piechota@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
 		"php": ">=5.6"
 	},
