@@ -1,0 +1,20 @@
+{
+    "name": "adrian-piechota/php-nettools-mac",
+    "description": "A simple class for converting MAC addresses to integers and back",
+    "license": "MIT",
+	"keywords": ["MAC", "Address"],
+    "authors": [
+        {
+            "name": "Adrian Piechota",
+            "email": "adrian.piechota@yahoo.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.6"
+	},
+	"autoload": {
+		"psr-0": {
+			"AdrianPiechota\\NetTools": "src/"
+		}
+	}
+}
